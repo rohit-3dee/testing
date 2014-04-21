@@ -1,5 +1,5 @@
 <?php
-echo "Working with git...";	
+echo "Finaly git is working ";	
 
 ?>
 
